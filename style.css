@@ -1,0 +1,107 @@
+.nav-style {
+    z-index: 1;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+
+.nav-hung {
+    margin-right: 80%;
+}
+
+.language>li {
+    margin-left: 10px;
+}
+
+.first-section {
+    height: 450px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.logo-ngang {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 3px solid #cd4541;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 50px;
+}
+
+.red {
+    color: #cd4541;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.curriculum {
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.text-center-1 {
+    color: #cd4541;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text-center-2 {
+    margin-bottom: 50px;
+}
+
+.card-hung {
+    box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, .2);
+}
+
+.jumbotron {
+    background-image: url(banner.jpg);
+}
+
+.history {
+    background-image: url(banner.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 150px;
+}
+
+.history>.text-center {
+    padding-left: 15%;
+    width: 50%;
+}
+
+.form>.text-center {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-center>.text-center2 {
+    font-size: 30px;
+}
+
+.box-form {
+    display: flex;
+    justify-content: center;
+}
+
+.form-hung {
+    margin-bottom: 50px;
+}
+
+.save-button {
+    width: 100%;
+}
+
+footer {
+    padding: 30px;
+    height: 80px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 20px;
+    color: #cd4541;
+    font-weight: bold;
+}
