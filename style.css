@@ -72,19 +72,6 @@
     font-weight: 400;
 }
 
-.history {
-    background-image: url(banner.jpg);
-    height: 500px;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    padding-top: 150px;
-}
-
-.history>.text-center {
-    padding-left: 15%;
-    width: 50%;
-}
-
 .form>.text-center {
     margin-top: 50px;
     margin-bottom: 50px;
