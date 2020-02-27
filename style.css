@@ -91,7 +91,8 @@ margin-right: 50px;
 
 .form-hung {
     margin-bottom: 50px;
-    background-color: lightgray
+    background-color: lightgray;
+    padding-bottom: 20px;
 }
 
 .save-button {
