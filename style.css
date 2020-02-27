@@ -12,6 +12,7 @@
 .language {
 overflow:hidden;
 white-space:nowrap;
+    width: 50px;
 }
 
 .language-li {
