@@ -73,7 +73,7 @@
 form {
 margin-left: 50px;
 margin-right: 50px;
-background-color: lightgray}
+}
 
 .form>.text-center {
     margin-top: 50px;
@@ -91,6 +91,7 @@ background-color: lightgray}
 
 .form-hung {
     margin-bottom: 50px;
+    background-color: lightgray
 }
 
 .save-button {
