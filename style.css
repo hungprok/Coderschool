@@ -12,12 +12,11 @@
 .language {
 overflow:hidden;
 white-space:nowrap;
-    width: 50px;
-    display: flex;
+    display: inline-block;
 }
 
 .language-li {
-    display:inline-block;
+    display: block;
 }
 
 .first-section {
