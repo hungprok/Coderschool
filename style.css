@@ -14,8 +14,7 @@ overflow:hidden;
 white-space:nowrap;
 }
 
-.language>li {
-    margin-left: 10px;
+.language-li {
     display:inline-block;
 }
 
