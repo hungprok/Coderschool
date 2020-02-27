@@ -7,11 +7,16 @@
 }
 
 .nav-hung {
-    margin-right: 80%;
+    margin-right: 70%;
+}
+.language {
+overflow:hidden;
+white-space:nowrap;
 }
 
 .language>li {
     margin-left: 10px;
+    display:inline-block;
 }
 
 .first-section {
